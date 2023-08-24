@@ -1,0 +1,43 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.navbar_title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.navbar_logo {
+    margin-bottom: 5px;
+}
+
+.navbar_logo i {
+    font-size: 30px;
+}
+
+.navbar_brand {
+    font-size: 20px;
+}
+
+.navbar_menu {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
+
+.navbar_link {
+    margin: 0 10px;
+    justify-self: center; 
+}
+
+.navbar_link a:hover {
+    color: #3A0088;
+}
+
+.navbar_form_search {
+    margin: 0 10px;
+}
