@@ -1,0 +1,39 @@
+.lent {
+    display: grid;
+    grid-template-columns: repeat(3,350px);
+    grid-template-rows: auto;
+    justify-content: space-between;
+    padding: 16px;
+    gap: 30px;
+}
+
+.lent_post {
+    display: grid;
+    grid-template-rows: 250px 50px 50px;
+    background-color: #FFBD39;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.post_image img {
+    width: 330px;
+    height: 250px;
+    overflow: hidden;
+    border-radius: 5px 5px 0 0;
+}
+
+.post_title {
+    align-self: center;
+    overflow: hidden;
+}
+
+.post_title a {
+    color: black;
+    font-weight: bold;
+}
+
+.post_description {
+    color: black;
+    overflow: hidden;
+    text-align: justify;
+}
