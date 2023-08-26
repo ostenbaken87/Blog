@@ -3,8 +3,8 @@
     grid-template-columns: repeat(3,350px);
     grid-template-rows: auto;
     justify-content: space-between;
-    padding: 16px;
     gap: 30px;
+    margin-bottom: 30px;
 }
 
 .lent_post {
