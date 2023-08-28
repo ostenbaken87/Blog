@@ -7,6 +7,11 @@
     margin-bottom: 30px;
 }
 
+.lent_title {
+    margin-top: 16px;
+    font-size: 30px;
+}
+
 .lent_post {
     display: grid;
     grid-template-rows: 250px 50px 50px;
