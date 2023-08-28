@@ -53,6 +53,21 @@
   max-height: 50px;
 }
 
+.footer_content {
+  text-align: center;
+  font-weight: bold;
+  color: black;
+}
+
+.footer_social_icon {
+  margin-top: 10px;
+}
+
+.footer_social_icon i{
+  color: black;
+  font-size: 20px;
+}
+
 /* Adaptive layout */
 
 @media (max-width: 900px) {
