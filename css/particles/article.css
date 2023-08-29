@@ -5,7 +5,7 @@
 }
 
 .article {
-    background-color: aliceblue;
+    background-color: #FFBD39;
     padding: 10px;
     border-radius: 10px;
 }
@@ -38,7 +38,7 @@
 
 
 .more_articles {
-    background-color: aliceblue;
+    background-color: #FFBD39;
     padding: 10px;
     border-radius: 10px;
     align-self: start;
@@ -79,8 +79,8 @@
 }
 
 .btn_more_articles:hover {
-    color: #3A0088;
-    background-color: #FFBD39;
+    color: black;
+    background-color: white;
     transition: all 0.5s;
 }
 
