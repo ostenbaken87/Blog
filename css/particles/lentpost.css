@@ -15,7 +15,7 @@
 .lent_post {
     display: grid;
     grid-template-rows: 250px 50px 50px;
-    background-color: #FFBD39;
+    background-color: #D6C8FF;
     padding: 10px;
     border-radius: 10px;
 }
